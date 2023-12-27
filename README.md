@@ -5,50 +5,58 @@ En este trabajo final he abocado todos los conociemientos aprendidos durante el 
 ## Instalación de proyecto
 
 1. Crear proyecto con Vite + React JS
-```shell```
-  npm create vite@latest (React + JS)
-```shell```
+
+```shell
+npm create vite@latest
+```
 
 2. Pasar a carpeta del proyecto
-```shell```
-npm cd (a carpeta del proyecto creado)
-```shell```
+
+```shell
+npm cd - carpeta del proyecto creado -
+```
 
 3. Instalar npm
-```shell```
+
+```shell
 npm install
-```shell```
+```
 
 ## Instalación de dependencias
 
 A continuación se detalla el proceso de instalación paso a paso de cada una de las dependencias utilizadas en este proyecto.
 
 - **axios**: Para instalar esta dependencia, ejecuta el siguiente comando:
-```shell```
-  npm install axios
-```shell```
+
+```shell
+npm install axios
+```
 
 - **phosphor-react**: Para instalar esta dependencia, ejecuta el siguiente comando:
-```shell```
-  npm install phosphor-react
-```shell```
+
+```shell
+npm install phosphor-react
+```
 
 - **react-router-dom**: Para instalar esta dependencia, ejecuta el siguiente comando:
-```shell```
-  npm install react-router-dom
-```shell```
+
+```shell
+npm install react-router-dom
+```
 
 - **react-toastify**: Para instalar esta dependencia, ejecuta el siguiente comando:
-```shell```
-  npm install react-toastify
-```shell```
+
+```shell
+npm install react-toastify
+```
 
 ## Ejecutar
 
-1. Ejecuta el proyecto: 
-```shell```
-  npm run dev
-```shell```
+1. Ejecuta el proyecto:
+
+```shell
+npm run dev
+```
 
 2. Abre tu navegador y visita el localhost que figura en el CMD.
 
